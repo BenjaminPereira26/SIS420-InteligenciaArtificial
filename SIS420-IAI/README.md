@@ -9,3 +9,5 @@ Links datasets:
 02_Regresion_One_VS_All01.ipynb: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 03_Regresion_One_VS_All02_Multimodal.ipynb: https://www.openml.org/search?type=data&id=554&sort=runs&status=active
+
+04-RegresionBinaria-Practico.ipynb: https://www.kaggle.com/datasets/romaneyvazov/32-dsdds
